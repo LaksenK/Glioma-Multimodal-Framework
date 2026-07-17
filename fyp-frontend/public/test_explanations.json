@@ -1,0 +1,527 @@
+[
+  {
+    "patient_id": "BraTS2021_00116",
+    "true_label": "glioblastoma",
+    "predicted_class": "glioblastoma",
+    "confidence": 0.5056,
+    "uncertainty": 0.0103,
+    "uncertain_flag": false,
+    "confidence_level": "LOW",
+    "nearest_proto": 4,
+    "nearest_class": "glioblastoma",
+    "similarity_score": 0.7633,
+    "mean_probs": [
+      0.505641520023346,
+      0.2511679530143738,
+      0.24319054186344147
+    ],
+    "std_probs": [
+      0.010320758447051048,
+      0.004997043404728174,
+      0.005534214433282614
+    ],
+    "idh_status": "IDH-wildtype",
+    "codel_status": "non-codeleted",
+    "mgmt_status": "MGMT unmethylated"
+  },
+  {
+    "patient_id": "BraTS2021_00144",
+    "true_label": "astrocytoma",
+    "predicted_class": "astrocytoma",
+    "confidence": 0.5563,
+    "uncertainty": 0.0148,
+    "uncertain_flag": false,
+    "confidence_level": "LOW",
+    "nearest_proto": 5,
+    "nearest_class": "astrocytoma",
+    "similarity_score": 0.8667,
+    "mean_probs": [
+      0.21054388582706451,
+      0.5563355088233948,
+      0.23312070965766907
+    ],
+    "std_probs": [
+      0.008239850401878357,
+      0.014841278083622456,
+      0.006976659409701824
+    ],
+    "idh_status": "IDH-mutant",
+    "codel_status": "non-codeleted",
+    "mgmt_status": "MGMT methylated"
+  },
+  {
+    "patient_id": "BraTS2021_00148",
+    "true_label": "glioblastoma",
+    "predicted_class": "glioblastoma",
+    "confidence": 0.5096,
+    "uncertainty": 0.0109,
+    "uncertain_flag": false,
+    "confidence_level": "LOW",
+    "nearest_proto": 4,
+    "nearest_class": "glioblastoma",
+    "similarity_score": 0.7587,
+    "mean_probs": [
+      0.509585440158844,
+      0.25009214878082275,
+      0.2403225153684616
+    ],
+    "std_probs": [
+      0.01093780342489481,
+      0.005230700597167015,
+      0.005784391891211271
+    ],
+    "idh_status": "IDH-wildtype",
+    "codel_status": "non-codeleted",
+    "mgmt_status": "MGMT unmethylated"
+  },
+  {
+    "patient_id": "BraTS2021_00151",
+    "true_label": "glioblastoma",
+    "predicted_class": "glioblastoma",
+    "confidence": 0.5071,
+    "uncertainty": 0.0117,
+    "uncertain_flag": false,
+    "confidence_level": "LOW",
+    "nearest_proto": 4,
+    "nearest_class": "glioblastoma",
+    "similarity_score": 0.7612,
+    "mean_probs": [
+      0.5071475505828857,
+      0.249891459941864,
+      0.24296091496944427
+    ],
+    "std_probs": [
+      0.011672190390527248,
+      0.005595965310931206,
+      0.006352132186293602
+    ],
+    "idh_status": "IDH-wildtype",
+    "codel_status": "non-codeleted",
+    "mgmt_status": "MGMT unmethylated"
+  },
+  {
+    "patient_id": "BraTS2021_01007",
+    "true_label": "glioblastoma",
+    "predicted_class": "glioblastoma",
+    "confidence": 0.508,
+    "uncertainty": 0.0115,
+    "uncertain_flag": false,
+    "confidence_level": "LOW",
+    "nearest_proto": 4,
+    "nearest_class": "glioblastoma",
+    "similarity_score": 0.7697,
+    "mean_probs": [
+      0.5080095529556274,
+      0.24528346955776215,
+      0.2467070072889328
+    ],
+    "std_probs": [
+      0.011456537060439587,
+      0.005447440315037966,
+      0.006505904253572226
+    ],
+    "idh_status": "IDH-wildtype",
+    "codel_status": "non-codeleted",
+    "mgmt_status": "MGMT methylated"
+  },
+  {
+    "patient_id": "BraTS2021_01146",
+    "true_label": "glioblastoma",
+    "predicted_class": "glioblastoma",
+    "confidence": 0.5058,
+    "uncertainty": 0.0123,
+    "uncertain_flag": false,
+    "confidence_level": "LOW",
+    "nearest_proto": 4,
+    "nearest_class": "glioblastoma",
+    "similarity_score": 0.7711,
+    "mean_probs": [
+      0.5058252215385437,
+      0.24512363970279694,
+      0.24905136227607727
+    ],
+    "std_probs": [
+      0.012317467480897903,
+      0.005476328544318676,
+      0.007718078792095184
+    ],
+    "idh_status": "IDH-wildtype",
+    "codel_status": "non-codeleted",
+    "mgmt_status": "MGMT methylated"
+  },
+  {
+    "patient_id": "BraTS2021_01296",
+    "true_label": "glioblastoma",
+    "predicted_class": "glioblastoma",
+    "confidence": 0.5124,
+    "uncertainty": 0.0101,
+    "uncertain_flag": false,
+    "confidence_level": "LOW",
+    "nearest_proto": 2,
+    "nearest_class": "glioblastoma",
+    "similarity_score": 0.7758,
+    "mean_probs": [
+      0.5124233961105347,
+      0.24842004477977753,
+      0.2391565889120102
+    ],
+    "std_probs": [
+      0.010054230690002441,
+      0.0046841176226735115,
+      0.005516491364687681
+    ],
+    "idh_status": "IDH-wildtype",
+    "codel_status": "non-codeleted",
+    "mgmt_status": "MGMT status unknown"
+  },
+  {
+    "patient_id": "BraTS2021_01441",
+    "true_label": "glioblastoma",
+    "predicted_class": "glioblastoma",
+    "confidence": 0.5101,
+    "uncertainty": 0.0101,
+    "uncertain_flag": false,
+    "confidence_level": "LOW",
+    "nearest_proto": 2,
+    "nearest_class": "glioblastoma",
+    "similarity_score": 0.7624,
+    "mean_probs": [
+      0.5101295709609985,
+      0.24935021996498108,
+      0.24052013456821442
+    ],
+    "std_probs": [
+      0.01014746818691492,
+      0.004727735184133053,
+      0.005572116933763027
+    ],
+    "idh_status": "IDH-wildtype",
+    "codel_status": "non-codeleted",
+    "mgmt_status": "MGMT status unknown"
+  },
+  {
+    "patient_id": "BraTS2021_01458",
+    "true_label": "glioblastoma",
+    "predicted_class": "glioblastoma",
+    "confidence": 0.5072,
+    "uncertainty": 0.0132,
+    "uncertain_flag": false,
+    "confidence_level": "LOW",
+    "nearest_proto": 2,
+    "nearest_class": "glioblastoma",
+    "similarity_score": 0.7849,
+    "mean_probs": [
+      0.5072004795074463,
+      0.2494259625673294,
+      0.2433735728263855
+    ],
+    "std_probs": [
+      0.013181925751268864,
+      0.006067380774766207,
+      0.007259063422679901
+    ],
+    "idh_status": "IDH-wildtype",
+    "codel_status": "non-codeleted",
+    "mgmt_status": "MGMT status unknown"
+  },
+  {
+    "patient_id": "BraTS2021_01468",
+    "true_label": "glioblastoma",
+    "predicted_class": "glioblastoma",
+    "confidence": 0.5084,
+    "uncertainty": 0.0092,
+    "uncertain_flag": false,
+    "confidence_level": "LOW",
+    "nearest_proto": 2,
+    "nearest_class": "glioblastoma",
+    "similarity_score": 0.7671,
+    "mean_probs": [
+      0.5083920955657959,
+      0.25040167570114136,
+      0.24120628833770752
+    ],
+    "std_probs": [
+      0.009212173521518707,
+      0.0043852501548826694,
+      0.004986920394003391
+    ],
+    "idh_status": "IDH-wildtype",
+    "codel_status": "non-codeleted",
+    "mgmt_status": "MGMT status unknown"
+  },
+  {
+    "patient_id": "BraTS2021_01474",
+    "true_label": "glioblastoma",
+    "predicted_class": "glioblastoma",
+    "confidence": 0.5087,
+    "uncertainty": 0.0127,
+    "uncertain_flag": false,
+    "confidence_level": "LOW",
+    "nearest_proto": 2,
+    "nearest_class": "glioblastoma",
+    "similarity_score": 0.7819,
+    "mean_probs": [
+      0.5086897015571594,
+      0.24916064739227295,
+      0.24214962124824524
+    ],
+    "std_probs": [
+      0.012683921493589878,
+      0.00615049060434103,
+      0.006750031374394894
+    ],
+    "idh_status": "IDH-wildtype",
+    "codel_status": "non-codeleted",
+    "mgmt_status": "MGMT status unknown"
+  },
+  {
+    "patient_id": "BraTS2021_01479",
+    "true_label": "oligodendroglioma",
+    "predicted_class": "oligodendroglioma",
+    "confidence": 0.5813,
+    "uncertainty": 0.019,
+    "uncertain_flag": false,
+    "confidence_level": "LOW",
+    "nearest_proto": 2,
+    "nearest_class": "oligodendroglioma",
+    "similarity_score": 0.935,
+    "mean_probs": [
+      0.21769355237483978,
+      0.2009955793619156,
+      0.5813108682632446
+    ],
+    "std_probs": [
+      0.012367798946797848,
+      0.008439148776233196,
+      0.01900075376033783
+    ],
+    "idh_status": "IDH-mutant",
+    "codel_status": "1p/19q codeleted",
+    "mgmt_status": "MGMT status unknown"
+  },
+  {
+    "patient_id": "BraTS2021_01481",
+    "true_label": "glioblastoma",
+    "predicted_class": "glioblastoma",
+    "confidence": 0.5091,
+    "uncertainty": 0.0115,
+    "uncertain_flag": false,
+    "confidence_level": "LOW",
+    "nearest_proto": 2,
+    "nearest_class": "glioblastoma",
+    "similarity_score": 0.7825,
+    "mean_probs": [
+      0.5090525150299072,
+      0.24977052211761475,
+      0.24117693305015564
+    ],
+    "std_probs": [
+      0.011506238020956516,
+      0.005541547201573849,
+      0.006144532468169928
+    ],
+    "idh_status": "IDH-wildtype",
+    "codel_status": "non-codeleted",
+    "mgmt_status": "MGMT status unknown"
+  },
+  {
+    "patient_id": "BraTS2021_01484",
+    "true_label": "astrocytoma",
+    "predicted_class": "astrocytoma",
+    "confidence": 0.562,
+    "uncertainty": 0.0151,
+    "uncertain_flag": false,
+    "confidence_level": "LOW",
+    "nearest_proto": 5,
+    "nearest_class": "astrocytoma",
+    "similarity_score": 0.866,
+    "mean_probs": [
+      0.20741380751132965,
+      0.5620319843292236,
+      0.23055410385131836
+    ],
+    "std_probs": [
+      0.007987131364643574,
+      0.01509521622210741,
+      0.007313648704439402
+    ],
+    "idh_status": "IDH-mutant",
+    "codel_status": "non-codeleted",
+    "mgmt_status": "MGMT status unknown"
+  },
+  {
+    "patient_id": "BraTS2021_01490",
+    "true_label": "astrocytoma",
+    "predicted_class": "astrocytoma",
+    "confidence": 0.5604,
+    "uncertainty": 0.012,
+    "uncertain_flag": false,
+    "confidence_level": "LOW",
+    "nearest_proto": 5,
+    "nearest_class": "astrocytoma",
+    "similarity_score": 0.8668,
+    "mean_probs": [
+      0.20856891572475433,
+      0.5604467391967773,
+      0.23098435997962952
+    ],
+    "std_probs": [
+      0.006383800879120827,
+      0.012047299183905125,
+      0.006051450502127409
+    ],
+    "idh_status": "IDH-mutant",
+    "codel_status": "non-codeleted",
+    "mgmt_status": "MGMT status unknown"
+  },
+  {
+    "patient_id": "BraTS2021_01507",
+    "true_label": "astrocytoma",
+    "predicted_class": "astrocytoma",
+    "confidence": 0.5586,
+    "uncertainty": 0.0137,
+    "uncertain_flag": false,
+    "confidence_level": "LOW",
+    "nearest_proto": 5,
+    "nearest_class": "astrocytoma",
+    "similarity_score": 0.8666,
+    "mean_probs": [
+      0.20934239029884338,
+      0.5586252212524414,
+      0.23203244805335999
+    ],
+    "std_probs": [
+      0.007503800559788942,
+      0.01368170976638794,
+      0.00659257872030139
+    ],
+    "idh_status": "IDH-mutant",
+    "codel_status": "non-codeleted",
+    "mgmt_status": "MGMT status unknown"
+  },
+  {
+    "patient_id": "BraTS2021_01512",
+    "true_label": "astrocytoma",
+    "predicted_class": "astrocytoma",
+    "confidence": 0.5534,
+    "uncertainty": 0.0158,
+    "uncertain_flag": false,
+    "confidence_level": "LOW",
+    "nearest_proto": 5,
+    "nearest_class": "astrocytoma",
+    "similarity_score": 0.8664,
+    "mean_probs": [
+      0.21187284588813782,
+      0.5533735156059265,
+      0.23475372791290283
+    ],
+    "std_probs": [
+      0.007868999615311623,
+      0.015787873417139053,
+      0.008209669031202793
+    ],
+    "idh_status": "IDH-mutant",
+    "codel_status": "non-codeleted",
+    "mgmt_status": "MGMT status unknown"
+  },
+  {
+    "patient_id": "BraTS2021_01519",
+    "true_label": "glioblastoma",
+    "predicted_class": "glioblastoma",
+    "confidence": 0.5069,
+    "uncertainty": 0.0131,
+    "uncertain_flag": false,
+    "confidence_level": "LOW",
+    "nearest_proto": 2,
+    "nearest_class": "glioblastoma",
+    "similarity_score": 0.7732,
+    "mean_probs": [
+      0.5069230198860168,
+      0.2507437467575073,
+      0.2423332929611206
+    ],
+    "std_probs": [
+      0.013067022897303104,
+      0.006238511297851801,
+      0.006966046057641506
+    ],
+    "idh_status": "IDH-wildtype",
+    "codel_status": "non-codeleted",
+    "mgmt_status": "MGMT status unknown"
+  },
+  {
+    "patient_id": "BraTS2021_01520",
+    "true_label": "astrocytoma",
+    "predicted_class": "astrocytoma",
+    "confidence": 0.5585,
+    "uncertainty": 0.0118,
+    "uncertain_flag": false,
+    "confidence_level": "LOW",
+    "nearest_proto": 5,
+    "nearest_class": "astrocytoma",
+    "similarity_score": 0.8669,
+    "mean_probs": [
+      0.20899511873722076,
+      0.5585305690765381,
+      0.23247426748275757
+    ],
+    "std_probs": [
+      0.006155855488032103,
+      0.011754272505640984,
+      0.006014889106154442
+    ],
+    "idh_status": "IDH-mutant",
+    "codel_status": "non-codeleted",
+    "mgmt_status": "MGMT status unknown"
+  },
+  {
+    "patient_id": "BraTS2021_01533",
+    "true_label": "oligodendroglioma",
+    "predicted_class": "oligodendroglioma",
+    "confidence": 0.5845,
+    "uncertainty": 0.0216,
+    "uncertain_flag": false,
+    "confidence_level": "LOW",
+    "nearest_proto": 2,
+    "nearest_class": "oligodendroglioma",
+    "similarity_score": 0.9349,
+    "mean_probs": [
+      0.21463263034820557,
+      0.20081737637519836,
+      0.5845499634742737
+    ],
+    "std_probs": [
+      0.011033398099243641,
+      0.012101877480745316,
+      0.02163441851735115
+    ],
+    "idh_status": "IDH-mutant",
+    "codel_status": "1p/19q codeleted",
+    "mgmt_status": "MGMT status unknown"
+  },
+  {
+    "patient_id": "BraTS2021_01536",
+    "true_label": "astrocytoma",
+    "predicted_class": "astrocytoma",
+    "confidence": 0.5607,
+    "uncertainty": 0.0175,
+    "uncertain_flag": false,
+    "confidence_level": "LOW",
+    "nearest_proto": 5,
+    "nearest_class": "astrocytoma",
+    "similarity_score": 0.8669,
+    "mean_probs": [
+      0.20816048979759216,
+      0.5606975555419922,
+      0.23114189505577087
+    ],
+    "std_probs": [
+      0.009039417840540409,
+      0.01754721999168396,
+      0.008685828186571598
+    ],
+    "idh_status": "IDH-mutant",
+    "codel_status": "non-codeleted",
+    "mgmt_status": "MGMT status unknown"
+  }
+]

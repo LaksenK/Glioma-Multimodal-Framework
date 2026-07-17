@@ -1,0 +1,158 @@
+{
+  "glioblastoma": [
+    {
+      "proto_id": 1,
+      "nearest_patient": {
+        "patient_id": "BraTS2021_00142",
+        "label": 0,
+        "class_name": "glioblastoma",
+        "similarity": 0.6447,
+        "df_idx": 17
+      }
+    },
+    {
+      "proto_id": 2,
+      "nearest_patient": {
+        "patient_id": "BraTS2021_01298",
+        "label": 0,
+        "class_name": "glioblastoma",
+        "similarity": 0.7871,
+        "df_idx": 38
+      }
+    },
+    {
+      "proto_id": 3,
+      "nearest_patient": {
+        "patient_id": "BraTS2021_01289",
+        "label": 0,
+        "class_name": "glioblastoma",
+        "similarity": 0.6734,
+        "df_idx": 36
+      }
+    },
+    {
+      "proto_id": 4,
+      "nearest_patient": {
+        "patient_id": "BraTS2021_00150",
+        "label": 0,
+        "class_name": "glioblastoma",
+        "similarity": 0.7741,
+        "df_idx": 21
+      }
+    },
+    {
+      "proto_id": 5,
+      "nearest_patient": {
+        "patient_id": "BraTS2021_00121",
+        "label": 0,
+        "class_name": "glioblastoma",
+        "similarity": 0.6735,
+        "df_idx": 6
+      }
+    }
+  ],
+  "astrocytoma": [
+    {
+      "proto_id": 1,
+      "nearest_patient": {
+        "patient_id": "BraTS2021_01528",
+        "label": 1,
+        "class_name": "astrocytoma",
+        "similarity": 0.719,
+        "df_idx": 90
+      }
+    },
+    {
+      "proto_id": 2,
+      "nearest_patient": {
+        "patient_id": "BraTS2021_01518",
+        "label": 1,
+        "class_name": "astrocytoma",
+        "similarity": 0.7657,
+        "df_idx": 83
+      }
+    },
+    {
+      "proto_id": 3,
+      "nearest_patient": {
+        "patient_id": "BraTS2021_01665",
+        "label": 1,
+        "class_name": "astrocytoma",
+        "similarity": 0.7865,
+        "df_idx": 96
+      }
+    },
+    {
+      "proto_id": 4,
+      "nearest_patient": {
+        "patient_id": "BraTS2021_01483",
+        "label": 1,
+        "class_name": "astrocytoma",
+        "similarity": 0.7084,
+        "df_idx": 62
+      }
+    },
+    {
+      "proto_id": 5,
+      "nearest_patient": {
+        "patient_id": "BraTS2021_01501",
+        "label": 1,
+        "class_name": "astrocytoma",
+        "similarity": 0.8671,
+        "df_idx": 72
+      }
+    }
+  ],
+  "oligodendroglioma": [
+    {
+      "proto_id": 1,
+      "nearest_patient": {
+        "patient_id": "BraTS2021_01521",
+        "label": 2,
+        "class_name": "oligodendroglioma",
+        "similarity": 0.869,
+        "df_idx": 84
+      }
+    },
+    {
+      "proto_id": 2,
+      "nearest_patient": {
+        "patient_id": "BraTS2021_01522",
+        "label": 2,
+        "class_name": "oligodendroglioma",
+        "similarity": 0.935,
+        "df_idx": 85
+      }
+    },
+    {
+      "proto_id": 3,
+      "nearest_patient": {
+        "patient_id": "BraTS2021_01521",
+        "label": 2,
+        "class_name": "oligodendroglioma",
+        "similarity": 0.8592,
+        "df_idx": 84
+      }
+    },
+    {
+      "proto_id": 4,
+      "nearest_patient": {
+        "patient_id": "BraTS2021_01521",
+        "label": 2,
+        "class_name": "oligodendroglioma",
+        "similarity": 0.8719,
+        "df_idx": 84
+      }
+    },
+    {
+      "proto_id": 5,
+      "nearest_patient": {
+        "patient_id": "BraTS2021_01521",
+        "label": 2,
+        "class_name": "oligodendroglioma",
+        "similarity": 0.8786,
+        "df_idx": 84
+      }
+    }
+  ]
+}
