@@ -1,0 +1,12 @@
+# Ignore dependencies
+**/node_modules/
+**/target/
+**.html
+
+# Ignore environment variables
+**/.env
+**/.env.local
+
+fyp-backend/models/best_model.pt
+fyp-backend/models/
+*.pt
